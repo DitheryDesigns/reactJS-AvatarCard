@@ -1,0 +1,10 @@
+/* Base style for the avatar card wrapper */
+.avatarCardWrapper {
+    display: inline-block;
+}
+  
+/* Style for the avatar photo */
+.avatarCardPhoto {
+    border-radius: 50%;  /* Makes the photo round */
+    border: 2px solid chocolate;  /* Adds a chocolate colored border */
+}
